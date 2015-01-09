@@ -18,7 +18,7 @@ sinatra
 sinatra-contrib
 ```
 
-If you want to run the included Gemfile, enter the following statement into
+If you want to run the included Gemfile, enter the following statements into
 the command line:
 ```ruby
 gem install bundler
